@@ -1,0 +1,65 @@
+body{
+    /* background-image: url(texture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background:radial-gradient(#22303d,#414f6a);
+    background-size: cover;
+
+}
+.name{
+    font-size: 400%;
+    padding-top: 15%;
+    padding-left: 10%;
+    color: #6EACDA;
+    text-shadow: -2px 0px 2px #E2E2B6;
+}
+.tag{
+    padding-left: 10%;
+    padding-top: 0%;
+    font-size: 150%;
+    color: #E2E2B6;
+}
+.firstmain{
+    /* border: 2px solid #E2E2B6; */
+    min width: 30%;
+    max-width: 40%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main{
+    border: 2px solid #6EACDA;
+    width: 300px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+}
+.pas{
+    border: 2px solid #6EACDA;
+    width: 300px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+}
+.log{
+    border: 2px solid #6EACDA;
+    background-color: #6EACDA;
+    color: #E2E2B6;
+    width: 300px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-left: 25px;
+}
+.for{
+    text-decoration: underline;
+    font-size: 12px;
+    margin-left: 110px;
+}
